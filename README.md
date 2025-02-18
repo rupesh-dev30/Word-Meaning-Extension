@@ -46,12 +46,12 @@ git clone https://github.com/rupesh-dev30/Word-Meaning-Extension.git
 ## 🏗️ Alternative Installation (Using .crx or .pem file)  
 
 📌 **Method 1: Using .crx File**  
-- Download the `.crx` file (**Coming Soon...**)  
+- Download the `.crx` file : [Download Here](https://drive.google.com/drive/folders/1VovG-mo4fyWV6Jdeq8SjiTREAUnobAiN?usp=drive_link)  
 - Drag & drop it onto `chrome://extensions/`  
 - Confirm the installation.  
 
 📌 **Method 2: Using .pem File**  
-- Download the `.pem` file (**Coming Soon...**)  
+- Download the `.pem` file : [Download Here](https://drive.google.com/drive/folders/1VovG-mo4fyWV6Jdeq8SjiTREAUnobAiN?usp=drive_link)  
 - Open `chrome://extensions/`  
 - Click **Pack Extension**  
 - Select the extension folder & `.pem` file  
