@@ -25,13 +25,16 @@ async function fetchMeaning(word, x, y) {
             let meaning = data[0].meanings[0].definitions[0].definition;
             // console.log("Fetched meaning:", meaning); // Debugging log
 
+            // if(meaning === "No meaning found!") return;
+
             showPopup(word, meaning, x, y);
-        } else {
-            showPopup("Sorry", "No meaning found!", x, y)
-            console.log("No meaning found.");
-        }
+        } 
+        // else {
+        //     showPopup("Sorry", "No meaning found!", x, y)
+        //     console.log("No meaning found.");
+        // }
     } catch (error) {
-        console.error("Error fetching meaning:", error);
+        // console.error("Error fetching meaning:", error);
     }
 }
 
