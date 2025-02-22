@@ -71,8 +71,6 @@ Now, you can select complex sentences and get simplified versions instantly!
 
 ## 🔧 Alternative Installation (Using .crx or .pem file)
 
-* THIS IS OLD VERSION EXTENSION (v 1.01) which doesnt contain the sentence features
-
 📌 **Method 1: Using .crx File**
 
 - Download the `.crx` file : [Download Here](https://drive.google.com/drive/folders/1VovG-mo4fyWV6Jdeq8SjiTREAUnobAiN?usp=drive_link)
